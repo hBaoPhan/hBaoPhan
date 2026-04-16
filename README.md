@@ -1,33 +1,23 @@
-# Hi there, I'm Phan Hoai Bao 👋
+# Hi there, I'm Bao 👋
 
 ### 🚀 Backend Developer | Java & Spring Boot Enthusiast
 
-Third-year Computer Science student specializing in Software Engineering. Passionate about architecting scalable, secure server-side systems with a focus on database optimization and robust security implementation for modern web applications.
----
-
-### 🛠️ Core Tech Stack
-
-**Backend Excellence**
-- **Languages:** Java
-- **Frameworks:** **Spring Boot** (Spring Security, Spring Data JPA)
-- **Architecture:** RESTful API Design
-- **Security:** OAuth2, JWT Authentication, Role-based Access Control (RBAC)
-
-**Database Management**
-- **Relational:** MySQL, SQL Server
-- **Optimization:** Query Tuning, Schema Design
-
-**Infrastructure & DevOps**
-- **Containerization:** Docker, Docker Compose
-- **Tools:** Postman, Git/GitHub, Maven
-- **Deployment:** Railway, Vercel, Docker Hub
+I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive into the Java/Spring Boot ecosystem.
 
 ---
+
+### 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,maven,postman,github,vercel)](https://skillicons.dev)
+
+### 🧩 Core Expertise
+- **Backend:** Spring Boot (Security/JPA), RESTful API Design, JWT Authentication.
+- **Database:** Schema Design, SQL Optimization (MySQL, SQL Server).
+- **DevOps:** Dockerization, CI/CD basics.
 
 ### 🏗️ Featured Projects
 
-- **Music Player Backend:**(Spotify clone) A secure streaming service API featuring JWT-based authentication, complex playlist logic, and efficient media data management.
-
+- **Music Player Backend:** A secure Spotify-like API featuring JWT-based authentication, complex playlist logic, and efficient media streaming.
+  
 ---
 
 ### 📫 Connect with me:
