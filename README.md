@@ -7,7 +7,7 @@ I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive 
 ---
 
 ### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,,maven,mysql,docker,postman,github,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,postman,github,vercel)](https://skillicons.dev)
 
 ### 🔍 Technical Deep Dive
 **Backend Engineering**
