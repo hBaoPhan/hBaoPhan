@@ -1,4 +1,4 @@
-# Hi there, I'm Bao 👋
+# Hi there, I'm Bao   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### 🚀 Backend Developer | Java & Spring Boot Enthusiast
 
@@ -7,12 +7,17 @@ I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive 
 ---
 
 ### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,maven,postman,github,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,,maven,mysql,docker,postman,github,vercel)](https://skillicons.dev)
 
-### 🧩 Core Expertise
-- **Backend:** Spring Boot (Security/JPA), RESTful API Design, JWT Authentication.
-- **Database:** Schema Design, SQL Optimization (MySQL, SQL Server).
-- **DevOps:** Dockerization, CI/CD basics.
+### 🔍 Technical Deep Dive
+**Backend Engineering**
+- **Java & Spring Framework:** Spring Boot, Spring Security (JWT & OAuth2), Spring Data JPA.
+- **API Design:** Building RESTful Services.
+- **Authentication:** Implementing secure Auth flows, Role-based Access Control (RBAC).
+**Database & Storage**
+- **Relational DB:** SQL querying, Schema Design.
+**System & DevOps**
+- **Tools:** Docker, CI/CD basics.
 
 ### 🏗️ Featured Projects
 
