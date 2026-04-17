@@ -10,12 +10,17 @@ I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,postman,github,vercel)](https://skillicons.dev)
 
 ### 🔍 Technical Deep Dive
+**Backend**
 - **Java & Spring Framework:** Spring Boot, Spring Security (JWT & OAuth2), Spring Data JPA.
 - **API Design:** Building RESTful Services.
 - **Authentication:** Implementing secure Auth flows, Role-based Access Control (RBAC).
+
 **Database & Storage**
+  
 - **Relational DB:** SQL querying, Schema Design.
+
 **System & DevOps**
+  
 - **Tools:** Docker, CI/CD basics.
 
 ### 🏗️ Featured Projects
