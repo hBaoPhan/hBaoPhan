@@ -7,7 +7,7 @@ I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive 
 ---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllMGYyOTBxbmQ5dDA4MzdtajgwYTMzNHN2enl6Nmx2ZG96bmlhcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kL3ZvNKk4hyR1B8hVt/giphy.gif" width="30"> Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,postman,github,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,docker,postman,github,vercel)](https://skillicons.dev)
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJsYTJ4ZHFpcXlrMW8wbzc4NHE0aW5sODlpYmZuYTB3eWg3cDZldiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YExlaQJ2LvC7H8aUmt/giphy.gif" width="30"> Technical Deep Dive
 **Backend**
@@ -18,6 +18,7 @@ I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive 
 **Database & Storage**
   
 - **Relational DB:** SQL querying, Schema Design.
+- **In-Memory/Caching:** Redis (Performance optimization).
 
 **System & DevOps**
   
