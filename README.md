@@ -25,7 +25,7 @@ I’m a 3rd-year CS student with a passion for Backend. I'm trying to deep-dive 
 - **Tools:** Docker, CI/CD basics.
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRya3N4bXJsZmF0bzBlaWJhY2Q0dnRua2xuY2s2cnMzczNqZm53dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"/> Featured Projects
-- **Music Player Backend:** A secure Spotify-like API featuring JWT-based authentication, complex playlist logic, and efficient media streaming.
+- **Music Player Backend:** A secure Spotify-like API featuring JWT-based authentication, complex playlist logic, efficient media streaming, and Redis caching for song metadata to optimize API response times.
   
 ---
 
